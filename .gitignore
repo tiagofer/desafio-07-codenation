@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.vscode/
+modulo07/
+output.xml
+stdout.txt
